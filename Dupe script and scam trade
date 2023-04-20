@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptPsxFarm/Main/main/autoFarmV1.lua", true))()
